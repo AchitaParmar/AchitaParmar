@@ -8,7 +8,7 @@
 
 - **Languages:** C, Python, Java, SQL
 - **Web Development:** HTML, CSS, JavaScript, PHP
-- **Databases:** MySQL, Oracle 9i, SQL Server
+- **Databases:** MSSQL, Oracle 9i
 - **Core CS Concepts:** Data Structures, OOP, Operating System, Statistics
 - **Tools & Platforms:** VS Code, NetBeans, Git & GitHub, MS Office
 - **Learning:** AI & ML Fundamentals | Data Analysis
