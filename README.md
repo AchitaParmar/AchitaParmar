@@ -15,4 +15,4 @@
 
 ---
 
-Beyond Academics, I’ve also participated in cultural events, and sports like **Kho Kho and Basketball**. I believe creativity and teamwork drive impactful technology!
+Beyond Academics, I’ve also participated in cultural events, and sports like **Kho Kho and Basketball**. I was **NSS Volunteer** for two years. I believe creativity and teamwork drive impactful technology!
